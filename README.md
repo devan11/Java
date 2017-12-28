@@ -1,2 +1,2 @@
 # Java
-My projects written in Java.
+Palindrome and Nth Fibonacci programs written in Java.
